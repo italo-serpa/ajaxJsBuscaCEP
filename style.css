@@ -1,0 +1,21 @@
+div {
+    font-size: 20px;
+    padding: 10px;
+}
+
+label, input {
+    display: block;
+}
+
+label {
+    padding-top: 10px;
+}
+
+input {
+    padding: 3px;
+}
+
+button {
+    padding: 3px;
+    margin: 10px 10px 0 0; 
+}
